@@ -1,0 +1,34 @@
+Key Insight
+1. Campaign Channel performance
+The analysis of conversion rates across different campaign channels revealed significant differences in performance.
+Findings:
+. Some channels consistently achieved higher conversion rates than others.
+. High-performing channels indicate better audience targeting and engagement.
+. Low-performing channels may require optimization or budget reduction.
+. Business Impact
+
+2. Campaign Type Effectiveness
+Different campaign types produced varying levels of customer response.
+Findings:
+. Certain campaign types generated significantly higher conversion rates.
+. Promotional and personalized campaigns generally perform better than generic campaigns.
+. Campaign strategy influences customer engagement and purchasing behavior.
+
+3. Advertising Spend Does Not Guarantee Success
+The scatter plot between Ad Spend and Conversion Rate showed that higher spending does not always lead to better performance.
+Findings:
+. Some campaigns with moderate budgets achieved high conversion rates.
+. Some expensive campaigns performed poorly.
+
+4. Marketing Funnel Analysis
+Marketing funnel stages:
+Website Visit
+      ↓
+Email Open
+      ↓
+Email Click
+      ↓
+Conversion
+Findings:
+. Customer drop-off occurs at multiple stages.
+. Funnel analysis helps identify weak points in customer journeys.
