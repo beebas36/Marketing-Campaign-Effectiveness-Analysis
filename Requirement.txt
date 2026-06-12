@@ -1,0 +1,48 @@
+Software Requirements:
+Python Version
+Python 3.10+
+
+Required Libraries:
+. pandas
+. numpy
+. matplotlib
+. seaborn
+
+Install using
+pip install pandas numpy matplotlib seaborn
+
+or
+
+pip install -r requirements.txt
+
+Hardware Requirements
+Minimum
+. Processor: Intel Core i3
+. RAM: 4 GB
+. Storage: 1 GB Free Space
+
+Recommended
+. Processor: Intel Core i5 or higher
+. RAM: 8 GB+
+. Storage: 2 GB Free Space
+
+Dataset requirements
+Required dataset columns:
+CustomerID
+Age
+Gender
+Income
+CampaignChannel
+CampaignType
+AdSpend
+ClickThroughRate
+ConversionRate
+WebsiteVisits
+PagesPerVisit
+TimeOnSite
+SocialShares
+EmailOpens
+EmailClicks
+PreviousPurchases
+LoyaltyPoints
+Conversion
