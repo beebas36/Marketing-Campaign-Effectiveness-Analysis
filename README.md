@@ -97,10 +97,10 @@ Marketing-Campaign-Effectiveness-Analysis/
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Marketing-Campaign-Effectiveness-Analysis.git
+git clone: https://github.com/beebas36/Marketing-Campaign-Effectiveness-Analysis
 ```
 
-Navigate to project folder:
+Navigate to the project folder:
 ```bash
 cd Marketing-Campaign-Effectiveness-Analysis
 ```
